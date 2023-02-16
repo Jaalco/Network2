@@ -56,8 +56,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="bb.cpp" />
 		<Unit filename="include/Print.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="queue.h" />
 		<Unit filename="src/Print.cpp" />
 		<Extensions>
 			<code_completion />
